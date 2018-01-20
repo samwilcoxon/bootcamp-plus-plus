@@ -26,6 +26,8 @@ Deep dive under the hood of the internet.
 GET, POST, PUT, DELETE with Postman.
 #### C. Build
 Build your own API with node/express on [Glitch](glitch.com).
+#### D. Refactor
+Refactor exisitng code to simplify architecture and better define the interfaces between each piece.
 
 ## Topic 4: Front-end
 #### A. Forms
@@ -74,7 +76,7 @@ Best practices for organzing branches for production, staging, development.
 2FA, Secrets, env vars, KMS, VPC, IAM, etc.
 #### B. Continuous Integration & Deployment
 CI running tests, CD deploying bundled apps, AWS CLI.
-#### C. Database
+#### C. Databases
 Backups, Sharding, Indexes, Clusters, etc.
 
 ## Topic 11: Cloud 2.0
