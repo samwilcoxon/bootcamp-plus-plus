@@ -1,4 +1,4 @@
-# ++
+# PlusPlus ++
 The Software Engineering Curriculum.
 
 ## Topic 0: Algorithms & Data Structures
