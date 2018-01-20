@@ -86,3 +86,5 @@ Lambda, API Gateway, why serverless?
 ## Topic 12: Software Engineering
 #### A. Team Development
 Pair Programming, Sprint Planning, Pull Requests, Code Reviews, Specialization.
+#### B. Get A Job
+Startups, Positions, Phone Screems, Interviews, References, Questions, Red Flags, Salary, Equity, etc.
