@@ -24,19 +24,23 @@ I/O, File System, Streams, JSON, CSV, command line arguments.
 Deep dive under the hood of the internet.
 #### B. REST API Verbs
 GET, POST, PUT, DELETE with Postman.
-#### C. Build
+#### C. Authentication
+Cookies, LocalState, Headers, Authentication vs. Authorization, JWT, OAuth, CORS, CSRF, Webhooks.
+#### D. Build
 Build your own API with node/express on [Glitch](glitch.com).
-#### D. Refactor
+#### E. Refactor
 Refactor exisitng code to simplify architecture and better define the interfaces between each piece.
 
 ## Topic 4: Front-end
 #### A. Forms
 Create forms to interact with your API.
-#### B. jQuery Spaghetti
+#### B. HTML/CSS
+HTML structure, SEO, browser compatibility, resources.
+#### C. jQuery Spaghetti
 Add jQuery and AJAX calls to build a more complicated front-end.
-#### C. Angular / React
+#### D. Angular / React
 Use a framework to add structure to simplify the front-end and build powerful web-apps.
-#### D. Sockets
+#### E. Sockets
 Polling vs. Sockets to get real-time data.
 
 ## Topic 5: Databases
